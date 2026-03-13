@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AverageNumber/AverageNumber.csproj" />
+  <Project Path="RealCalculator/RealCalculator.csproj" />
+  <Project Path="SwapNumbers/SwapNumbers.csproj" Id="cf287a79-e050-4b4a-aa18-f2d5007c7b7d" />
+</Solution>
