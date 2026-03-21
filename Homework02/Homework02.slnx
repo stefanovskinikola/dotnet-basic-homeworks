@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="StudentGroup/StudentGroup.csproj" />
+  <Project Path="SumOfEven/SumOfEven.csproj" />
+</Solution>
