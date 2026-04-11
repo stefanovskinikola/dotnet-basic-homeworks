@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Constructors/Constructors.csproj" />
+  <Project Path="Domain/Domain.csproj" />
+  <Project Path="Enums/Enums.csproj" />
+  <Project Path="Inheritance/Inheritance.csproj" />
+</Solution>
